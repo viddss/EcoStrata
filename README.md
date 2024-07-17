@@ -1,4 +1,4 @@
-ECO STRATA 
+EcoStrata
 
 Objective:
 The objective of this ptoject is to create a machine learning model to predict whether an individual earns above or below a certain amount. This solution can potentially reduce the cost and improve the accuracy of monitoring key population 

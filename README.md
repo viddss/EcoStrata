@@ -7,34 +7,7 @@ indicators such as income level in between census years. This information will h
 Data background:
 There are ~200 000 individuals in train and ~100 000 individuals in the test data set.The train & test data will be used to create a machine learning model to predict if an individual earns above 50 000 of a specific currency.
 The key variables are as follows:
-Age
-Gender
-Education
-Class
-Education institute
-Marital status
-Race
-Is hispanic
-Employment commitment
-Unemployment reason
-Employment state
-Wage per hour
-Is part of labor union
-Working week per year
-Main Industry code
-Main Occupation code
-Total employed
-Household summary
-Under 18 family
-Veteran benefit
-Tax status
-Gains
-Losses
-Stocks status
-Citizenship
-Residence 1 year ago
-Old residence state
-Income above limit
+Age, Gender, Education, Class, Education institute, Marital status, Race, Is hispanic, Employment commitment, Unemployment reason, Employment state, Wage per hour, Is part of labor union, Working week per year, Main Industry code, Main Occupation code, Total employed, Household summary, Under 18 family, Veteran benefit, Tax status, Gains, Losses, Stocks status, Citizenship, Residence 1 year ago, Old residence state, Income above limit
 
 Based on the variables set up and the data target requirements, the analysis can be assumed to be based on 20th century American population data where the median income was about $ 50,000.
 

@@ -1,7 +1,7 @@
 EcoStrata
 
 Objective:
-The objective of this ptoject is to create a machine learning model to predict whether an individual earns above or below a certain amount. This solution can potentially reduce the cost and improve the accuracy of monitoring key population 
+The objective of this project is to create a machine learning model to predict whether an individual earns above or below a certain amount. This solution can potentially reduce the cost and improve the accuracy of monitoring key population 
 indicators such as income level in between census years. This information will help policymakers to better manage and avoid income inequality globally.
 
 Data background:
